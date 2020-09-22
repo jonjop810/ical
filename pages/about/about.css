@@ -1,0 +1,22 @@
+ion-content {
+  background:linear-gradient(to top, #005aa7, #fffde4);
+}
+
+h2 {
+  font-family: Helvetica Narrow, sans-serif;
+  font-weight: bolder;
+  color: #336699;
+  text-align: center;
+}
+
+p {
+   font-family: Helvetica, sans-serif;
+   font-weight: bold;
+  text-align: justify;
+  font-size: 15.5px;
+  color:#292E49
+}
+
+ion-item {
+  background-color:#e6eeff
+}
